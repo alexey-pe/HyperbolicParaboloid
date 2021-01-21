@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # configure a header file to pass the version number
 # to the source code
-configure_file(TutorialConfig.h.in TutorialConfig.h)
+configure_file(HyperbolicParaboloidConfig.h.in HyperbolicParaboloidConfig.h)
 
 # add the executable
 add_executable(HyperbolicParaboloid tutorial.cxx)
