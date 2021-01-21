@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\git_Hub\HyperbolicParaboloid\Step1_build\CMakeFiles\a80ed47054a7bde45ba09fd70fe05584\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EECB4036-E08F-35E8-B771-6257A53F8ACE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
